@@ -32,4 +32,5 @@ yadm
 ```bash
 sudo apt install -y yadm
 yadm clone --bootstrap https://github.com/chernyshaw/dotfiles.git
+yadm checkout "/home/che"
 ```
