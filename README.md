@@ -36,5 +36,7 @@ yadm checkout "/home/che"
 ```
 
 wtf
-- fzf
-- prezto
+- https://github.com/junegunn/fzf
+- https://github.com/sorin-ionescu/prezto
+- https://github.com/tldr-pages/tldr
+
