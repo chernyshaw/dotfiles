@@ -1,3 +1,8 @@
+exa
+```bash
+sudo apt update && sudo apt install -y exa
+```
+
 zsh
 ```bash
 sudo apt install -y zsh
@@ -16,11 +21,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 zsh-syntax-highlighting
 ```bash
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-```
-
-exa
-```bash
-sudo apt update && sudo apt install -y exa
 ```
 
 starship
